@@ -5,10 +5,10 @@ This repository is for convertation pytorch model to rockchip rnn model
 # installation
 
 ```bash
-$ install.sh
+$ ./install.sh
 ```
 ### export
 
 ```bash
-$ export.sh source_file destination_file
+$ ./export.sh source_file destination_file
 ```
